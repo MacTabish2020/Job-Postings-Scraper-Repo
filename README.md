@@ -1,2 +1,1 @@
-# Job-Postings-Scraper-Repo
-Job Postings Scraper – Naukri.com (Python, Selenium, BeautifulSoup) Built a Python scraper to extract job data from Naukri.com using Selenium for dynamic content and BeautifulSoup for parsing. Collected job title, company, location, experience, and date, and saved the cleaned data into a CSV file for analysis.
+Developed a Python-based web scraper using BeautifulSoup to extract book data from “Books to Scrape.” Collected details like title, price, availability, and rating across multiple pages. Cleaned and exported the data to a CSV file for analysis. Demonstrated skills in HTML parsing, pagination handling, and data storage.
